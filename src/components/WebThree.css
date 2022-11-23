@@ -1,0 +1,11 @@
+.webthree {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-top: 30px;
+}
+
+.webthree h1 {
+  color: white;
+  font-size: 18px;
+}
